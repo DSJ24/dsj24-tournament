@@ -83,6 +83,6 @@ As Discord Administrator use following commands to setup tournament
 - minor addons
 - Documentation prepared
 
-DSJ24 Cup Planner © fyv, Mensux for DSJ24, 2022
+DSJ24 Cup Planner © fyv, Mensix for DSJ24, 2022
 
 thx wa_, Arumasze for contribution and testing 
