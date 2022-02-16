@@ -33,7 +33,9 @@ As Discord Administrator use following commands to setup tournament
  - Available hill names are listed below
 2. `!unschedule [finish hour]`
  - Removes tournament (eg. `!unschedule 23:59`)
-3. `!setup`
+3. `!getReport [finish date]`
+ - Displays results from specific date (eg. `!getReport 2022-02-16 19:55`) 
+5. `!setup`
  - Adjusts database schemas 
 
 ## Available hill's names
