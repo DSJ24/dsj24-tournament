@@ -35,7 +35,7 @@ As Discord Administrator use following commands to setup tournament
  - Removes tournament (eg. `!unschedule 23:59`)
 3. `!getReport [finish date]`
  - Displays results from specific date (eg. `!getReport 2022-02-16 19:55`) 
-5. `!setup`
+4. `!setup`
  - Adjusts database schemas 
 
 ## Available hill's names
